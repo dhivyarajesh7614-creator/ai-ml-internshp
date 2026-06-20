@@ -1,6 +1,6 @@
 AI-ML INTERNSHIP PROGRAM
 
-This repository contaiins the projects completed as part of the pluto academy AI & ML Internship program.
+This repository contains the project completed as part of the pluto academy AI & ML Internship program.
 
 Project 1: Netflix Dataset Analysis (EDA)
 
